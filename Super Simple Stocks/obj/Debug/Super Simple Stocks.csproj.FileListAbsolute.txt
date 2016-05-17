@@ -1,0 +1,5 @@
+E:\Projects\JPTest\Super Simple Stocks\Super Simple Stocks\bin\Debug\Super Simple Stocks.exe.config
+E:\Projects\JPTest\Super Simple Stocks\Super Simple Stocks\bin\Debug\Super Simple Stocks.exe
+E:\Projects\JPTest\Super Simple Stocks\Super Simple Stocks\bin\Debug\Super Simple Stocks.pdb
+E:\Projects\JPTest\Super Simple Stocks\Super Simple Stocks\obj\Debug\Super Simple Stocks.exe
+E:\Projects\JPTest\Super Simple Stocks\Super Simple Stocks\obj\Debug\Super Simple Stocks.pdb
